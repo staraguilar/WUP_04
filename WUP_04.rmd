@@ -44,6 +44,8 @@ basicCN <- ggplot(GSScsv,aes(x=DEGREE,y=WORDSUM))
 basicCN + geom_boxplot()
 ```
 
+there is a clear difference, more noticeably between LT high school students and junior college students,graduate students. There isn't a big different between junior college and bachelor students.As well as, between LT high school students and high school students.
+
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
